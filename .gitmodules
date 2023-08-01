@@ -5,9 +5,9 @@
 [submodule "HBV.IANIGLA"]
 	path = HBV.IANIGLA
 	url = https://gitlab.com/ezetoum27/hbv.ianigla
-[submodule "hydrotoolbox"]
-	path = hydrotoolbox
-	url = https://gitlab.com/ezetoum27/hydrotoolbox
 [submodule "hydroToolkit"]
 	path = hydroToolkit
 	url = https://github.com/cran/hydroToolkit
+[submodule "hydrotoolbox"]
+	path = hydrotoolbox
+	url = https://gitlab.com/ezetoum27/hydrotoolbox
